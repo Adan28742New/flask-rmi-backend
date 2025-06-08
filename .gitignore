@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+*.log
+*.sqlite3
+models/
+venv/
+*.pth
+.DS_Store
+*.tar
+*.tar.gz
